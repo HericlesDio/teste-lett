@@ -1,0 +1,3 @@
+Esse é um projeto java usando o eclipse, ele pode ser aberto usando linha de comando
+ou usando alguma IDE java, só executar a interfaceConsole dentro da view
+infelizmente a webScraper não funciona
